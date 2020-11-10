@@ -17,4 +17,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/all', 'App\Http\Controllers\CrmController@startForAllLeads');
+Route::get('/get/lead', 'App\Http\Controllers\CrmController@getLeadByFilter');

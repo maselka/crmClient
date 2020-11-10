@@ -134,6 +134,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../nginx-1.19.3/conf/nginx.conf" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -150,7 +151,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604330111191</updated>
-      <workItem from="1604330112254" duration="23559000" />
+      <workItem from="1604330112254" duration="39755000" />
     </task>
     <servers />
   </component>
@@ -170,5 +171,9 @@
       <screen x="-1920" y="-308" width="1920" height="1040" />
     </state>
     <state x="-773" y="-185" width="585" height="801" key="find.popup/0.0.1366.728/-1920.-308.1920.1040@-1920.-308.1920.1040" timestamp="1604946658653" />
+    <state x="-798" y="90" key="run.anything.popup" timestamp="1604962235203">
+      <screen x="-1920" y="-308" width="1920" height="1040" />
+    </state>
+    <state x="-798" y="90" key="run.anything.popup/0.0.1366.728/-1920.-308.1920.1040@-1920.-308.1920.1040" timestamp="1604962235203" />
   </component>
 </project>
