@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36be6172-3f92-4da3-a7fd-35d9e545b430" name="Default Changelist" comment="" />
+    <list default="true" id="36be6172-3f92-4da3-a7fd-35d9e545b430" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Models/Bitrix24Client.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CrmController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CrmController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -124,6 +132,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1jjv2oU7qkHD8EPMkk87pCCtDZG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -152,6 +161,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604330111191</updated>
       <workItem from="1604330112254" duration="40188000" />
+      <workItem from="1605040365834" duration="11732000" />
     </task>
     <servers />
   </component>
@@ -159,14 +169,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-905" y="-34" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1605045406358">
+      <screen x="-1920" y="-308" width="1920" height="1040" />
+    </state>
+    <state x="-905" y="-34" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728/-1920.-308.1920.1040@-1920.-308.1920.1040" timestamp="1605045406358" />
     <state x="-1180" y="-34" key="FileChooserDialogImpl" timestamp="1604394181303">
       <screen x="-1920" y="-308" width="1920" height="1040" />
     </state>
     <state x="-1180" y="-34" key="FileChooserDialogImpl/0.0.1366.728/-1920.-308.1920.1040@-1920.-308.1920.1040" timestamp="1604394181303" />
-    <state x="-1186" y="-66" key="NewPhpClassDialog" timestamp="1604509221804">
+    <state x="-1186" y="-66" key="NewPhpClassDialog" timestamp="1605043008879">
       <screen x="-1920" y="-308" width="1920" height="1040" />
     </state>
-    <state x="-1186" y="-66" key="NewPhpClassDialog/0.0.1366.728/-1920.-308.1920.1040@-1920.-308.1920.1040" timestamp="1604509221804" />
+    <state x="-1186" y="-66" key="NewPhpClassDialog/0.0.1366.728/-1920.-308.1920.1040@-1920.-308.1920.1040" timestamp="1605043008879" />
     <state x="-773" y="-185" width="585" height="801" key="find.popup" timestamp="1604946658653">
       <screen x="-1920" y="-308" width="1920" height="1040" />
     </state>

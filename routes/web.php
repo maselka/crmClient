@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\CrmController;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,4 +18,20 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/get/lead', 'App\Http\Controllers\CrmController@getLeadByFilter');
+Route::get(
+    '/get/lead/by/field/{title}/{value}',
+    [CrmController::class, 'getLeadsByFilter']
+//    'App\Http\Controllers\CrmController@getLeadsByFilter'
+);
+
+Route::get(
+    '/get/lead/all',
+    [CrmController::class, 'getAllLeads']
+//    'App\Http\Controllers\CrmController@getAllLeads'
+);
+
+Route::get(
+    '/get/lead/',
+    [CrmController::class, 'getLeads']
+//    'App\Http\Controllers\CrmController@getLeads'
+);
